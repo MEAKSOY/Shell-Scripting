@@ -1,6 +1,1 @@
-Aeron
-Bill
-James
-John
-Oliver
-Walter
+Single line sentencehas been writtenlike multiline.
