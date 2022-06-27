@@ -247,7 +247,7 @@ This is part 1 of line 5 : This is part 2 of line 5
 awk -F: '{print $2}' awk.txt
 ```
 
-**Output:**vi aw
+**Output:**
 ```bash
  This is part 2 of line 1
  This is part 2 of line 2
